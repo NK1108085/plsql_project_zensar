@@ -136,17 +136,7 @@ VALUES (payment_seq.NEXTVAL, 1, 25.00, 'Completed');
 
 
 
-SELECT * FROM Customers;
 
-SELECT * FROM Drivers;
-
-SELECT * FROM Trips;
-
-SELECT * FROM Reservations;
-
-SELECT * FROM Payments WHERE payment_status = 'Completed';
-
-SELECT * FROM Taxis WHERE taxi_id NOT IN (SELECT taxi_id FROM Trips WHERE trip_status = 'In Progress');
 
 
 
