@@ -1,7 +1,7 @@
 # **Taxi Reservation System**
 
 ## *Developer*
-Nitin Singh
+Nitin Pravin Singh
 Student of Amrutvahini College of Engineering
 T.E Computer Engineering Department (under Zensar Python and SQL Training)
 
